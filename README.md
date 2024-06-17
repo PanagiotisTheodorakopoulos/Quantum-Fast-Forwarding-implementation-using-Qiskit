@@ -1,4 +1,4 @@
-# Quantum Fast-Forwarding implementation in Qiskit
+# Quantum Fast-Forwarding implementation using Qiskit
 The implementation took place according to this paper: https://arxiv.org/abs/1804.02321 
 
 The algorithm is adapted in order to manipulate qubits, and is capable of
